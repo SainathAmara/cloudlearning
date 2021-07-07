@@ -1,0 +1,22 @@
+#center{
+  text-align: center;
+  padding-top:300px;
+}
+#center{
+  color:white;
+}
+body{
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3K4sQQ0gshP1w1rF1eiA8WE9Mihg5Z3jig&usqp=CAU);
+  background-size: cover;
+}
+#special{
+  font-weight:700;
+  font-size:4em;
+}
+#tc1{
+  width:40%;
+  border:2px solid blue;
+}
+#s{
+  font-size:50px;
+}

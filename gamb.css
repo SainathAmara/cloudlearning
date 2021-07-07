@@ -1,0 +1,70 @@
+.menu{
+  margin-left:30px;
+  margin-top:20px;
+}
+#offcanvasExampleLabel{
+  font-size:30px;
+  margin-left:100px;
+  font-family: 'Zen Tokyo Zoo', cursive;
+  color:blue;
+}
+img{
+    height:200;
+    width:200;
+    padding-left:250px;
+}
+ul{
+  padding-left:1700px;
+}
+#fh1{
+    margin-top:20px;
+    font-family: 'Tourney', cursive;
+    color:skyblue;
+    background:#011627;
+  }
+  #fh2{
+    margin-top:20px;
+    font-family: 'Tourney', cursive;
+    color:;
+    background:#011627;
+  }
+.parent{
+  display:flex;
+
+}
+.child2{
+  margin-left:20px;
+}
+.back{
+  background:#011627;
+}
+.child21{
+  margin-left:550px;
+}
+#t{
+  padding-left: 200px;
+}
+@media screen and (max-width: 800px){
+.parent{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+.parent1{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+.parent8{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:flex-start;
+}
+.carousel-inner img{
+  background:orange;
+}
+#ht{
+  text-align: center;
+  word-spacing:2px;
+}
+}

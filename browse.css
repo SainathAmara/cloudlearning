@@ -1,0 +1,39 @@
+.parent{
+  display:flex;
+  border:1px solid gray;
+  margin-top:10px;
+}
+.child2{
+  padding-top:90px;
+  margin-left:20px;
+}
+.child3{
+  padding-top:120px;
+  margin-left:20px;
+  color:blue;
+}
+#h{
+  background:skyblue;
+}
+.parent4{
+  display:flex;
+}
+.child8{
+  margin-left:800px;
+}
+@media screen and (min-width:500px){
+  .parent{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+  }
+  .parent4{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+  }
+  .child8{
+    display:flex;
+    flex-wrap:wrap;
+    margin-left:2px;
+  }

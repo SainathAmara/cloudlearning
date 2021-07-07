@@ -1,0 +1,13 @@
+img{
+  height:300px;
+  width:30%;
+  float:left;
+  margin:1.66%;
+}
+h1{
+  font-size:60px;
+  font-weight:900;
+  border-bottom: 2px solid gray;
+  padding-bottom: 20px;
+  font-family: 'Dancing Script', cursive;
+}
